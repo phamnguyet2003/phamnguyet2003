@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - I received awards in some competitions, such as Algorithms Arena 4.0 (JS Club), Mathraiders  (FPT AI Club), 2023_FALL_DPL30Xm (Kaggle) and participated in some other competitions like [SoICT] BKAI track 2 - OCR, Algorithms Arena 3.0 (JS Club), Coding Inspiration 2023 (JS Club).
 
 ### Contact:
-- [Email](pham.nguyet.is.here@gmail.com)
-- [Facebook](https://www.facebook.com/nguyetpham.19.2/)
+- Email: pham.nguyet.is.here@gmail.com 
+- Facebook: [Pham Nguyet](https://www.facebook.com/nguyetpham.19.2/)
   
