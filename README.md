@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ### Contact:
 - Email: pham.nguyet.is.here@gmail.com 
-- Facebook: [Pham Nguyet](https://www.facebook.com/nguyetpham.19.2/)
+- Facebook: [FB Pham Nguyet](https://www.facebook.com/nguyetpham.19.2/)
 - CV: [CV Pham Nguyet](https://drive.google.com/file/d/16t7UJSpC4aVVY-zUIRD-MJNT3KFA-jH_/view?usp=sharing)
