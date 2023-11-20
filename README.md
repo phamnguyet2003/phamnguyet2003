@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I got 100% Scholarship of FPT University
 - I received awards in some competitions, such as Algorithms Arena 4.0 (JS Club), Mathraiders  (FPT AI Club), 2023_FALL_DPL30Xm (Kaggle) and participated in some other competitions like [SoICT] BKAI track 2 - OCR, Algorithms Arena 3.0 (JS Club), Coding Inspiration 2023 (JS Club).
 
-### [Contact](https://linktr.ee/phamnguyet?utm_source=linktree_admin_share):
+### Contact:
 - Email: pham.nguyet.is.here@gmail.com 
 - Facebook: [FB Pham Nguyet](https://www.facebook.com/nguyetpham.19.2/)
 - CV: [CV Pham Nguyet](https://drive.google.com/file/d/1XekHAT_rQV7uee879Cm5GTcF8oOlijYc/view?usp=sharing)
