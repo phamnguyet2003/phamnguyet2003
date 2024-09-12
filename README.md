@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Here are some information about me:
 - I'm a K17 student of FPT University
-- My major is Artificial Intelligence
+- My major: Artificial Intelligence, Specialization: Data
 - I used to be a Mathematics Mentor in Logic Math Planet (LMP) - An FPT University Scholarship Preparation Center
 - I got 100% Scholarship of FPT University
 - I received awards in some competitions, such as Algorithms Arena 4.0 (JS Club), Mathraiders  (FPT AI Club), 2023_FALL_DPL30Xm (Kaggle) and participated in some other competitions like [SoICT] BKAI track 2 - OCR, Algorithms Arena 3.0 (JS Club), Coding Inspiration 2023 (JS Club).
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### Contact:
 - Email: pham.nguyet.is.here@gmail.com 
 - Facebook: [FB Pham Nguyet](https://www.facebook.com/nguyetpham.19.2/)
-- CV: [CV Pham Nguyet](https://drive.google.com/file/d/1XekHAT_rQV7uee879Cm5GTcF8oOlijYc/view?usp=sharing)
+- CV: [CV Pham Nguyet](https://www.canva.com/design/DAGQEYvVF4w/9orIT7CfeYtKJHZ_uFNnqA/edit?utm_content=DAGQEYvVF4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
